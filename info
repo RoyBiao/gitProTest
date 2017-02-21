@@ -1,0 +1,40 @@
+xl  2jxl.
+kvm虚拟机：192.168.1.20 jxl 123456
+
+
+v(1).
+$z.
+true , false, ok, undefined.
+make_ref().
+f(), f(X)  
+_  省略模式 匿名变量
+
+什么是多态，举例子；
+进程和线程的区别
+错误日至的保存；混淆文件，为什么要混淆，混淆后的错误日志怎么查看;
+数据库升级策略; 表变更，字段变更
+
+
+帐号为835487,初始密码为:550783，请牢记。
+
+
+
+./bootstrap.sh
+./configure --without-php --with-openssl=/usr/local/opt/openssl/ --with-boost=no
+make
+make install
+
+
+
+adb -s 192.168.0.28:5555 pull /data/data/com.lmspay.ewallet/databases/lms.db ~/Desktop/
+
+KeyEvent { action=ACTION_DOWN, keyCode=KEYCODE_SLASH, scanCode=53, metaState=0, flags=0x8, repeatCount=0, eventTime=3171751, downTime=3171751, deviceId=5, source=0x101 }
+KeyEvent { action=ACTION_DOWN, keyCode=KEYCODE_ALT_RIGHT, scanCode=100, metaState=META_ALT_ON|META_ALT_RIGHT_ON, flags=0x8, repeatCount=0, eventTime=3276563, downTime=3276563, deviceId=5, source=0x101 }
+
+
+
+http://192.168.0.111:8080/recharge/api/swagger.json
+http://192.168.0.111:8080/bus/api/swagger.json
+http://192.168.0.111:8080/traffic/api/swagger.json
+
+数据库升级 上拉下拉 
