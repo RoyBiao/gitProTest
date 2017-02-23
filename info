@@ -49,3 +49,4 @@ mywork1
 
 mywork2
 
+git rebase -i origin/master
