@@ -1,4 +1,4 @@
-xl  2jxl.
+jxl.
 kvm虚拟机：192.168.1.20 jxl 123456
 
 
@@ -31,7 +31,7 @@ adb -s 192.168.0.28:5555 pull /data/data/com.lmspay.ewallet/databases/lms.db ~/D
 KeyEvent { action=ACTION_DOWN, keyCode=KEYCODE_SLASH, scanCode=53, metaState=0, flags=0x8, repeatCount=0, eventTime=3171751, downTime=3171751, deviceId=5, source=0x101 }
 KeyEvent { action=ACTION_DOWN, keyCode=KEYCODE_ALT_RIGHT, scanCode=100, metaState=META_ALT_ON|META_ALT_RIGHT_ON, flags=0x8, repeatCount=0, eventTime=3276563, downTime=3276563, deviceId=5, source=0x101 }
 
-
+test1
 
 http://192.168.0.111:8080/recharge/api/swagger.json
 http://192.168.0.111:8080/bus/api/swagger.json
@@ -50,3 +50,8 @@ mywork1
 mywork2
 
 git rebase -i origin/master
+
+test2
+test3
+
+revert2
