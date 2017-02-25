@@ -54,4 +54,3 @@ git rebase -i origin/master
 test2
 test3
 
-revert2
