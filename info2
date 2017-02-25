@@ -2,3 +2,5 @@ begin info2
 
 Nice again!
 
+git rebase -i
+
