@@ -52,7 +52,6 @@ mywork2
 git rebase -i origin/master
 
 test2
-test
-3
+test3
 
 revert2
